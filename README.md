@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Dawid-Jasinski/Dawid-Jasinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Cześć, jestem Dawid Jasiński
 
-Here are some ideas to get you started:
+🎓 Student Ekonomii / Ekonometrii i Analizy Danych  
+📊 Przyszły Junior Data Analyst  
+💻 Tworzę projekty z Pythonem, SQL i Power BI  
+🔍 Interesuję się analizą danych, modelami statystycznymi i wizualizacją danych  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologie i narzędzia
+- **Python:** pandas
+- **SQL:** zapytania analityczne, funkcje okna, joiny  
+- **Power BI:** raporty
+- **Excel:** tabele przestawne, Power Query, analiza danych  
+
+---
+
+## 📁 Moje Projekty (portfolio)
+
+
+---
+
+## 📬 Kontakt
+- LinkedIn: www.linkedin.com/in/dawid-jasiński-3a2b58281
+- GitHub: Ten profil 😉  
+
+---
+„Dane to nie liczby — to informacje, które czekają, aż ktoś im zada właściwe pytanie.”
