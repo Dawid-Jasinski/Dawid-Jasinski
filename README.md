@@ -1,7 +1,7 @@
 
 # 👋 Cześć, jestem Dawid Jasiński
 
-🎓 Student Ekonomii / Ekonometrii i Analizy Danych  
+🎓 Student Ekonomii / Ekonometrii i Analityki Danych  
 📊 Przyszły Junior Data Analyst  
 💻 Tworzę projekty z Pythonem, SQL i Power BI  
 🔍 Interesuję się analizą danych, modelami statystycznymi i wizualizacją danych  
@@ -17,7 +17,11 @@
 ---
 
 ## 📁 Moje Projekty (portfolio)
-
+- amazon-sales-sql-analysis
+- credit-risk-pd
+- ekstraklasa_analysis_24_25
+- poland-housing-market-analysis-powerbi
+- university-work
 
 ---
 
@@ -26,4 +30,3 @@
 - GitHub: Ten profil 😉  
 
 ---
-„Dane to nie liczby — to informacje, które czekają, aż ktoś im zada właściwe pytanie.”
